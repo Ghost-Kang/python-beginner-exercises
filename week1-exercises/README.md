@@ -15,3 +15,9 @@
 ## 主要使用list dict 函数等实现的添加 删除 显示总价格的列表
 
 ## 运行方式：python3 03_shopping_list.py
+
+# Example four: 04_temp_converter.py
+
+## 摄氏度跟华氏度之间批量转换的程序
+
+## 运行方式：python3 04_temp_converter.py  or  python3 04_temp_converter.py --demo
