@@ -21,3 +21,10 @@
 ## 摄氏度跟华氏度之间批量转换的程序
 
 ## 运行方式：python3 04_temp_converter.py  or  python3 04_temp_converter.py --demo
+
+# Example five: 05_password_check.py
+
+## 主要是使用re正则表达式，判断密码是否是安全的，具体的安全策略可以看代码说明
+
+## 运用方式：python3 05_password_check.py
+
