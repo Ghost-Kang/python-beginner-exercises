@@ -28,3 +28,9 @@
 
 ## 运用方式：python3 05_password_check.py
 
+# Example six: 06_diary_program.py
+
+## 主要是练习文件的读写功能的练习with open(filepath,'r/w/a/rb/wb',encoding="utf-8") as f
+
+## 运行方式：python3 06_diary_program.py
+
