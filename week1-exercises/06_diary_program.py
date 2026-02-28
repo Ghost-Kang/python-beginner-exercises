@@ -5,7 +5,8 @@ diary_program
 主要练习 文件的io
 
 """
-
+__author__ = 'wangxukang'
+__date__ = '2026-02-26'
 
 from datetime import datetime
 
