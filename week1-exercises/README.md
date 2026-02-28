@@ -34,3 +34,10 @@
 
 ## 运行方式：python3 06_diary_program.py
 
+# Example seven: 07_score_analyzer.py
+
+## 主要练习文件读写后的处理功能
+
+## 运行方式：python3 7_score_analyzer.py
+
+
