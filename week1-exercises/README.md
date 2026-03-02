@@ -38,6 +38,22 @@
 
 ## 主要练习文件读写后的处理功能
 
-## 运行方式：python3 7_score_analyzer.py
+## 运行方式：python3 07_score_analyzer.py
 
+# Example eight: 08_deduplicate_file.py
 
+## 主要练习文件读写处理
+
+## 运行方式：python3 08_deduplicate_file.py
+
+# Example night: 09_parse_config.py
+
+## 解析分析config文件，形成字典格式
+
+## 运行方式：python3 09_parse_cofig.py
+
+# Example ten: 10_markdown_toc.py
+
+## 提前（# ## ###） 提取标题，并形成目录格式
+
+## python3 10_markdown_toc.py

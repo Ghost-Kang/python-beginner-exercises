@@ -1,0 +1,67 @@
+# ==============================
+# 应用基本配置
+# ==============================
+app_name=MyApplication
+version=1.0.0
+debug=false
+secret_key=a1b2c3d4e5f6g7h8
+
+# ==============================
+# 服务器配置
+# ==============================
+host=0.0.0.0
+port=8080
+workers=4
+timeout=30
+max_connections=200
+
+# ==============================
+# 数据库配置
+# ==============================
+db_host=localhost
+db_port=5432
+db_name=mydb
+db_user=admin
+db_password=secret123
+db_pool_size=10
+
+# ==============================
+# 缓存配置（Redis）
+# ==============================
+redis_host=127.0.0.1
+redis_port=6379
+redis_db=0
+redis_password=
+redis_ttl=3600
+
+# ==============================
+# 日志配置
+# ==============================
+log_level=INFO
+log_path=/var/log/myapp/app.log
+log_max_size=10MB
+log_backup_count=5
+
+# ==============================
+# 文件存储配置
+# ==============================
+upload_dir=/data/uploads
+max_upload_size=20MB
+allowed_extensions=jpg,png,gif,pdf,docx
+
+# ==============================
+# 邮件配置
+# ==============================
+smtp_host=smtp.example.com
+smtp_port=465
+smtp_user=noreply@example.com
+smtp_password=mailpass456
+smtp_tls=true
+
+# ==============================
+# 第三方 API
+# ==============================
+api_base_url=https://api.example.com/v2
+api_key=sk-xxxxxxxxxxxxxxxxxxxxxxxx
+api_timeout=10
+api_retry=3
