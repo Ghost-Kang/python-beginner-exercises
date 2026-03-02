@@ -54,6 +54,6 @@
 
 # Example ten: 10_markdown_toc.py
 
-## 提前（# ## ###） 提取标题，并形成目录格式
+## 提取（# ## ###） 提取标题，并形成目录格式
 
 ## python3 10_markdown_toc.py
