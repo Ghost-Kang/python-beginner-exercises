@@ -56,4 +56,4 @@
 
 ## 提取（# ## ###） 提取标题，并形成目录格式
 
-## python3 10_markdown_toc.py
+## 运行方式： python3 10_markdown_toc.py
