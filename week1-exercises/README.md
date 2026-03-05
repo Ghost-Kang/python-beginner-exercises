@@ -57,3 +57,17 @@
 ## 提取（# ## ###） 提取标题，并形成目录格式
 
 ## 运行方式： python3 10_markdown_toc.py
+
+# Example 11： 11_merge_csv.py
+
+## 运用pandas库合并两个csv文件
+
+## 运行方式：python3 11_merge_csv.py
+
+# Example 12: 12_cvsdata_analyzer.py
+
+## 使用pandas库对csv文件进行数据的处理
+
+## 运行方式：python3 12_cvsdata_analyzer.py
+
+
