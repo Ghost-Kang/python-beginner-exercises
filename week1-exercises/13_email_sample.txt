@@ -1,0 +1,85 @@
+=====================================
+  📋 公司通讯录 & 混合文本示例
+=====================================
+
+【管理层】
+CEO:         jack.ma@alibaba.com.cn
+CTO:         elon_musk@tesla-corp.org
+CFO:         warren.buffett+finance@berkshire.net
+COO:         tim.cook@apple.com
+
+【研发部门】
+高级工程师:   zhang.wei_2024@dev.company.com.cn
+前端负责人:   lina.frontend+css@gmail.com
+后端负责人:   wangfang@backend.internal.org
+算法工程师:   Dr.LiuYang@ai-research.edu.cn
+移动端:       iOS.developer@mobile.tech.net
+测试主管:     qa_lead+automation@test.company.io
+
+【市场与运营】
+市场总监:     marketing.director@brand-global.co
+运营经理:     ops.manager_CN@operations.biz
+社媒专员:     social_media2024@weibo.marketing.com
+品牌策划:     brand+design@creative.studio.uk
+海外市场:     oversea.sales@international.co.jp
+
+【人事与财务】
+HR负责人:     hr.manager@recruit.cn
+招聘专员:     jobs+campus@talent.company.org
+薪酬福利:     payroll_2024@finance.internal.net
+法务合规:     legal.compliance@lawfirm.com.au
+
+【客户服务】
+通用客服:     support@helpdesk.io
+VIP专线:      vip.service+premium@customer.care.com
+投诉处理:     complaint.team_cn@feedback.org
+售后支持:     aftersale_support@service.net.cn
+
+【合作伙伴邮箱】
+阿里巴巴:     partner@alibaba.com
+谷歌:         bd@google.co.in
+微软:         enterprise@microsoft.com.sg
+亚马逊:       seller.support@amazon.co.uk
+Meta:         ads.partner@meta-business.net
+
+【各国顶级域名示例】
+美国:         contact@company.com
+英国:         enquiry@firm.co.uk
+德国:         info@unternehmen.de
+日本:         info@kaisha.co.jp
+澳大利亚:     admin@org.com.au
+中国:         service@enterprise.com.cn
+法国:         bonjour@societe.fr
+巴西:         contato@empresa.com.br
+印度:         support@startup.in
+新加坡:       hello@business.sg
+
+【特殊合法格式】
+含加号:       user+tag@example.com
+含点号:       first.last.name@domain.com
+含下划线:     user_name_2024@mail.org
+含连字符:     user-name@my-domain.net
+长子域名:     admin@mail.internal.dept.company.com
+数字用户名:   12345678@numeric.domain.net
+混合格式:     abc.def+ghi_123@sub.example.co.uk
+
+【❌ 无效邮箱（不应被提取）】
+缺少@符号:    userATdomain.com
+缺少域名:     @onlydomain.com
+缺少用户名:   @.com
+双@符号:      user@@double.com
+含空格:       user name@space.com
+缺顶级域名:   noTLD@domain
+只有点:       ...@...
+空字符串:     (此处为空)
+
+【文章正文中自然嵌入的邮箱】
+如有任何问题，欢迎发送邮件至 info@genspark.ai 联系我们。
+技术文档反馈请联系 docs.feedback_v2@tech.support.net，
+或抄送给项目组 project.team+cc@collab.org 及顾问 consultant.zhang@advisory.com.cn。
+紧急事务请直接联系负责人 urgent+hotline@emergency.biz，
+非工作时间请发至备用邮箱 backup.2024@standby.io。
+
+=====================================
+  共计约 50+ 个有效邮箱地址
+=====================================
