@@ -1,0 +1,13 @@
+﻿id,name,email,department,position,salary,join_date,active,skills,address.city,address.district
+1,张伟,zhangwei@company.com,研发部,高级工程师,28000,2020-03-15,True,Python;Go;Docker,北京,海淀区
+2,李娜,lina@company.com,产品部,产品经理,25000,2021-06-01,True,Axure;Figma,上海,浦东新区
+3,王芳,wangfang@company.com,市场部,市场总监,35000,2019-11-20,True,SEO;SEM;数据分析,广州,天河区
+4,赵磊,zhaolei@company.com,研发部,测试工程师,20000,2022-04-10,False,Selenium;JMeter,深圳,南山区
+5,陈静,chenjing@company.com,人事部,HR经理,22000,2020-09-05,True,招聘;绩效管理,北京,朝阳区
+6,刘洋,liuyang@company.com,财务部,财务主管,26000,2018-07-22,True,Excel;SAP;税务,成都,武侯区
+7,孙丽,sunli@company.com,研发部,前端工程师,23000,2021-12-08,True,Vue;React;TypeScript,杭州,西湖区
+8,周强,zhouqiang@company.com,运维部,运维工程师,21000,2023-02-14,True,Linux;K8s;CI/CD,武汉,洪山区
+9,吴敏,wumin@company.com,产品部,UI设计师,19000,2022-08-30,False,Figma;Sketch;PS,南京,鼓楼区
+10,郑浩,zhenghao@company.com,研发部,后端工程师,27000,2020-05-18,True,Java;Spring;MySQL,北京,西城区
+11,冯雪,fengxue@company.com,市场部,内容运营,16000,2023-07-01,True,文案;新媒体;短视频,上海,静安区
+12,韩磊,hanlei@company.com,销售部,销售经理,18000,2019-03-11,True,客户关系;谈判;CRM,重庆,渝中区
