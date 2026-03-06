@@ -7,6 +7,8 @@
   3. 找出销量最高的产品（完整排行榜）
   4. 按月份分组统计（含环比增长率）
 """
+__author__ = 'wangxukang'
+__date__ = '2026-03-05'
 
 import pandas as pd
 
