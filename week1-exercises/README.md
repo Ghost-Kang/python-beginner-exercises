@@ -88,3 +88,16 @@
 
 ## 运行方式：python3 15_duplicate_file.py-当前目录下是否存在相同文件/python3 15_duplicate_file.py  dirname-检查指定文件夹下是否存在相同的文件
 
+# Example 16: 16_fetch_weather.py
+
+## 应用requests库从网站上获取到资源，并且保存成jason格式
+
+## 运行方式：python 16_fetch_weather.py
+
+# Example 17: 17_rename_photos.py
+
+## 修改照片的命名格式
+
+## 运行方式：python 17_rename_photos.py "目录“ ”prefix“  --apply 带有apply参数就会修改，没有带apply参数，只是展示修改的样子
+
+
