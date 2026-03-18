@@ -100,4 +100,21 @@
 
 ## 运行方式：python 17_rename_photos.py "目录“ ”prefix“  --apply 带有apply参数就会修改，没有带apply参数，只是展示修改的样子
 
+# Example 18: 18_words_count.py
+
+## 统计txt文件中出现top20的词组
+
+## 运行方式：python 18_words_count.py 需要给出统计的文件的路径，直接运行程序
+
+# Example 19: 19_cal_countdown.py
+
+## 统计重要日子的倒计时
+
+## 运行方式：python 19_cal_countdown.py 
+
+# Example 20: 20_calc_consume.py
+
+## 一个记录每一笔消费的记录的程序，并且可以统计出每个月的数据及做数据分析及建议
+
+## 运行方式：pyhton 20_cal_consume.py
 
