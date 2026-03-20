@@ -11,4 +11,4 @@ this is a repository that  I can taking action in python
 
 ## 第三章： 根据第二章采集的数据进行数据分析
 
-### 使用 Week 2 的数据，用 Jupyter 做可视化分析，详细内容见week3_exerise文档介绍
+### 使用 Week 2 的数据，用 Jupyter 做可视化分析，详细内容见week3_exercise文档介绍
